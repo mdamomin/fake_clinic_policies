@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+
+    "name": "The Office Visit",
+    "description": "Manitoba Health allows us to book 15 minute physicals or a 10-minute regular visit. In this time, a physician must obtain a history, perform an exam, write encounter notes, counsel the patient on diagnosis and treatment, write applicable test requisitions, prescriptions and/or referrals and review pertinent results. Please help us keep to our schedule by respecting these time frames and booking separate visits for separate issues."
+  },
+  {
+    "id": 2,
+    "name": "Same-Day Visits/ Walk-In Visits",
+    "description": "We provide same-day/walk-in consultation to both our patient and the general public. Please keep in mind that the walk-in visit is intended for a single urgent concern that cannot wait for an appointment sometime in the future."
+  },
+  {
+    "id": 3,
+    "name": "Narcotics/ Triplicate Medications",
+    "description": "We require a minimum of 24-hour notice of cancellation of an appointment. Cancellations are easiest done online via the patient portal link on our website at www.familycaremed.ca. As well, you can cancel an appointment directly from the notification sent to your SMS and/or e-mail address when you initially booked your appointment. You can also cancel in person, via telephone or fax. Missed appointments without prior notice are subject to the fees listed in the 'Uninsured Services' section."
+  },
+  {
+    "id": 4,
+    "name": "Wait Times",
+    "description": "We try to stay on schedule as much as possible. Sometimes an emergency may occur, and we ask for your patience should this happen. If you are waiting an unusually long time, please accept our apology and understand that we are doing the best we can to accommodate all patients."
+  },
+  {
+    "id": 5,
+    "name": "Test Results",
+    "description": "For many reasons, it is inappropriate to give out or discuss lab results over the phone. All patients should make follow-up appointments to discuss results of any tests they have hand. Results are usually available 2 weeks after the test date. We will only contact you should we received an abnormal result and you will be asked to make an appointment to review this result in person. For results of a very serious or urgent concern a physician or staff will contact you directly."
+  },
+  {
+    "id": 6,
+    "name": "Referrals to Specialists & Other Tests",
+    "description": "If you have not been contacted regarding your consultation within 2 to 3 weeks, please call our office and we will follow up on the status of the referral.."
+  },
+  {
+    "id": 7,
+    "name": "Returning Telephone Calls",
+    "description": "It is difficult to return telephone calls during a busy office day. If you have an urgent concern or question, please contact our front desk."
+  },
+  {
+    "id": 8,
+    "name": "Prescribing Refills Over the Phone/Fax",
+    "description": "During an office visit you will be given a prescription for enough medication to last you until the next visit. Please plan ahead and make an appointment before your medication runs out. We will honour pharmacy fax requests to refill prescriptions in urgent situations, but patients should not make this a routine request. Ongoing use of prescription medications requires regular monitoring by your physician.When do pregnancy symptoms start? Very early pregnancy symptoms (like sensitivity to smell and tender breasts) may show up before you miss your period, as soon as a few days after conception, while other early signs of pregnancy (like spotting) might appear around one week after sperm meets egg."
+  },
+  {
+    "id": 9,
+    "name": "Uninsured Services",
+    "description": "Manitoba Health does not insure certain services such as filling out forms and administering travel vaccinations. A list of uninsured services and their associated fees is posted in the clinic and on this website."
+  },
+  {
+    "id": 10,
+    "name": "Abuse",
+    "description": "We have a zero tolerance policy on abuse towards any physician or staff member. Violators who are abusive will be asked to leave the facility and may be terminated from the practice permanently."
+  }
+]
